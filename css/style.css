@@ -261,8 +261,8 @@ header ul.nav li ul li ul {
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
 color: #D8BFD8;  
-/* background: #52C2AD; */
-/* border: 1px solid #3AA994 !important; */
+ background: #cc99ff; 
+ border: 1px solid #26004d !important; 
 }
 
 
